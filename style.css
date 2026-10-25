@@ -278,8 +278,3 @@ footer{
     font-family: serif;
     margin:0;
 }
-@media screen and (max-width:600px) {
-    aside, section, article{
-        width: 100%;
-    }
-}
