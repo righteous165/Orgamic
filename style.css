@@ -278,3 +278,8 @@ footer{
     font-family: serif;
     margin:0;
 }
+@media screen {
+    header, main, footer{
+        width: 100%;
+    }
+}
